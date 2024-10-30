@@ -1,5 +1,5 @@
 # Three Dragons
-<img src="null" width="250px" alt="HMLabs">
+<img src="https://github.com/timsamoff/Three-Dragons/blob/main/threeDragons/apple-touch-icon-180x180.png?raw=true" width="250px" alt="HMLabs">
 
 "Three Dragons" is  text-based micro-RPG based on a European folktale about two brothers and an old man with a white beard.
 
